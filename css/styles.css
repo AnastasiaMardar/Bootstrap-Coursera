@@ -16,7 +16,7 @@
     padding: 20px 0px 20px 0px;
 }
 
-.jumbotron {  
+.jumbotron {
     padding:70px 30px 70px 30px;
     margin:0px auto;
     background: #9575CD ;
@@ -36,4 +36,11 @@ body{
 
 .navbar-inverse {
      background-color: #512DA8;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
 }
