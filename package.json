@@ -20,6 +20,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "browser-sync": "^2.18.13",
     "cssmin": "^0.4.3",
     "grunt": "^1.0.1",
     "grunt-browser-sync": "^2.2.0",
@@ -28,6 +29,8 @@
     "grunt-contrib-imagemin": "^2.0.1",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-sass": "^2.0.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
     "htmlmin": "0.0.7",
     "install": "^0.10.1",
     "jit-grunt": "^0.10.0",
